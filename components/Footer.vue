@@ -55,7 +55,7 @@
       <hr class="my-6 border-gray-200 shadow-sm" />
       <div class="w-full flex flex-wrap items-center md:justify-between justify-center">
         <div class="w-full px-4 mx-auto text-center text-gray-400">
-          Copyright © 2021 Starter, Inc. All rights reserved.
+          Copyright © 2022 onetalksoft Inc. All rights reserved.
         </div>
       </div>
     </div>
